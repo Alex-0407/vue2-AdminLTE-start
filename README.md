@@ -1,4 +1,4 @@
-# vue2-start
+# vue2-AdminLTE-start
 
 > A Vue.js project
 
